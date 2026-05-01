@@ -29,7 +29,8 @@ A SQL-based analytics system designed to track and analyze e-commerce business p
 
 ![Dashboard](<img width="1536" height="1024" alt="ECOMMERCE SALES INSIGHT DASHBOARD Apr 29, 2026, 09_40_40 PM" src="https://github.com/user-attachments/assets/18faec11-2033-4aee-aa82-945df9f4d01e" />
 )
-<img width="1920" height="50" alt="image" src="https://github.com/user-attachments/assets/ea20bb3b-e86f-4e89-833d-97db848e6a88" />
+<img width="1920" height="1080" alt="ecommerce sales insight ss" src="https://github.com/user-attachments/assets/7f148f31-69a6-4176-8cf8-e311872a7f08" />
+
 
 ---
 
